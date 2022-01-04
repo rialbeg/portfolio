@@ -8,11 +8,12 @@
     padding: 15px;
     border-radius: 5px;
     text-align: center;
+    border-radius: 50%;
 }
 
 .sobre-mim .imagem-sobre-mim img {
     border: 10px solid transparent;
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .sobre-mim .informacoes-sobre-mim {    
